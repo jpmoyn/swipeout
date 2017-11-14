@@ -49,7 +49,7 @@ react-native run-ios
 
 ```js
 import Swipeout from 'rc-swipeout';
-import 'rc-swipeout/assets/index.less'; (web only)
+import 'rc-swipeout/assets/index.css'; (web only)
 
 <Swipeout
   left={[
